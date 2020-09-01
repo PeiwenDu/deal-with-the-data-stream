@@ -11,3 +11,6 @@ Python, Spark Streaming library, tweepy
 - Estimated the existence of a coming city in the data stream using the Bloom Filtering algorithm, improved accuracy by finding the proper hash functions.
 - Estimated the number of unique cities within a 30-second-length window using the Flajolet-Martin algorithm.
 - Found popular tags on tweets from Twitter API of streaming by Reservoir Sampling Algorithm ( Fixed Size Sampling).
+
+## Data
+The business.json is from Yelp dataset
